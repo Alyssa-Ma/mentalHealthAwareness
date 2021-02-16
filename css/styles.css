@@ -1,0 +1,13 @@
+ul{
+    margin: 30px auto;
+    padding: 0 20px;
+    text-align: center;
+}
+
+li{
+    display: inline-block;
+}
+
+li:hover{
+    color: #DBE9EE;
+}
