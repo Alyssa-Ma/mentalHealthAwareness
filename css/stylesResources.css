@@ -1,10 +1,19 @@
 img {
-    float: left;
-    width:  100px;
-    height: 100px;
+    width:  200px;
+    height: 200px;
     object-fit: cover;
 }
 
 #first{
     margin-top: 75px;
 }
+
+.col-md{
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+
+h4:hover{
+    color: blueviolet;
+}
+
