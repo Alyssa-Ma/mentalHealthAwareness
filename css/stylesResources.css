@@ -5,10 +5,12 @@ img {
     object-fit: cover;
 }
 
-/*Adjust margins for top to account for navbar*/
-#first{
-    margin-top: 75px;
+.info .large img{
+    width:  100px;
+    height: 100px;
+    object-fit: cover;
 }
+
 
 /*Increases margins of every column*/
 .col-md{
@@ -31,4 +33,14 @@ h1{
 .col-md p{
     font-size: x-large;
     color:#007BFF;
+}
+.bg{
+    background-color: #459CE9;
+}
+
+.info{
+    border-color: white;
+    border: solid 2px white;
+    background-color: white;
+    border-radius: 15px 50px;
 }
