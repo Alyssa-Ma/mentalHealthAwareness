@@ -5,15 +5,17 @@ img {
     object-fit: cover;
 }
 
-
+/*Changes color of the navbar*/
 .navbar{
     background-color: #403CDE;
 }
 
+/*changes color of the text in navbar*/
 .navbar-brand, .nav-link{
     color: white;
 }
 
+/*changes color of the navbar text when hovered*/
 .navbar-brand:hover, .nav-link:hover{
     color: gray;
 }
@@ -43,10 +45,13 @@ h1{
     font-size: x-large;
     color:#007BFF;
 }
+
+/*changes background color of entire document*/
 .bg{
     background-color: #459CE9;
 }
 
+/*styles the info within the grids*/
 .info{
     border-color: white;
     border: solid 2px white;
