@@ -11,6 +11,18 @@ img {
     object-fit: cover;
 }
 
+.navbar{
+    background-color: #403CDE;
+}
+
+.navbar-brand, .nav-link{
+    color: white;
+}
+
+.navbar-brand:hover, .nav-link:hover{
+    color: gray;
+}
+
 
 /*Increases margins of every column*/
 .col-md{
@@ -27,6 +39,7 @@ img {
 h1{
     font-weight: bold;
     margin-top: 75px;
+    text-decoration: underline;
 }
 
 /*styles the numbers*/
