@@ -1,0 +1,51 @@
+.main {
+    background-color:#459CE9;
+}
+
+.info{
+    border-color: #75D9FF;
+    border: solid 2px #75D9FF;
+    background-color: #75D9FF;
+    border-radius: 15px 50px;
+    padding-top: 200px;
+    padding-bottom: 200px;
+    margin-top: 100px;
+    background-size: 100px 200px;
+    color: white;
+    font-size: 50px;
+}
+
+.col-md{
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+
+.learnmore{
+    font-size: 30px;
+}
+
+a:link{
+    color: white;
+}
+
+a:visited{
+    color: white;
+}
+
+a:hover{
+    color: #459CE9;
+}
+
+.additional-info{
+    padding-top: 50px;
+    color: white;
+    background-color: #75D9FF;
+    font-size: 30px;
+    font-weight: bold;
+    text-align: center;
+}
+
+.inner-info{
+    font-weight: normal;
+    padding-bottom: 50px;
+}
