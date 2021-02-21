@@ -1,0 +1,61 @@
+/* scales images so they are all equal*/
+img {
+    width:  200px;
+    height: 200px;
+    object-fit: cover;
+}
+
+/*Changes color of the navbar*/
+.navbar{
+    background-color: #403CDE;
+}
+
+/*changes color of the text in navbar*/
+.navbar-brand, .nav-link{
+    color: white;
+}
+
+/*changes color of the navbar text when hovered*/
+.navbar-brand:hover, .nav-link:hover{
+    color: gray;
+}
+
+
+/*Increases margins of every column*/
+.col-md{
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+
+/*Highlight links when hovering*/
+.col-md h4:hover{
+    color: blueviolet;
+}
+
+/*makes all headings bold*/
+h1{
+    font-weight: bold;
+    margin-top: 75px;
+    text-decoration: underline;
+    color: white;
+}
+
+/*styles the numbers*/
+.col-md p{
+    font-size: x-large;
+    color:#007BFF;
+}
+
+/*changes background color of entire document*/
+.bg{
+    background-color: #459CE9;
+}
+
+/*styles the info within the grids*/
+.info{
+    border-color: white;
+    border: solid 2px white;
+    background-color: white;
+    border-radius: 15px 50px;
+    padding-top: 10px;
+}
