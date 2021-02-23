@@ -2,6 +2,11 @@
     background-color:#459CE9;
 }
 
+/*Changes color of the navbar*/
+.navbar{
+    background-color: #403CDE;
+}
+
 .info{
     border-color: #75D9FF;
     border: solid 2px #75D9FF;
