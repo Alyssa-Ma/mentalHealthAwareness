@@ -17,3 +17,21 @@ a:visited{
 a:hover{
     color: #459CE9;
 }
+
+h1 {
+    text-align: center;
+    text-decoration: underline;
+    color: white;
+}
+
+.info{
+    border-color: white;
+    border: solid 2px white;
+    background-color: #75D9FF;
+    border-radius: 15px 50px;
+    padding-top: 10px;
+}
+
+.col-md {
+    margin-right: 20px;
+}
