@@ -1,0 +1,19 @@
+.body{
+    background-color: #459CE9;
+}
+
+.navbar{
+    background-color: #403CDE;
+}
+
+.container{
+    color: white;
+}
+
+a:visited{
+    color: white;
+}
+
+a:hover{
+    color: #459CE9;
+}
